@@ -27,3 +27,15 @@ body{
     text-align: center;
 }
 
+/* 10 multiplas regras */
+
+h2{
+    border-bottom: 2px dotted red;
+}
+.titulo{
+    border-bottom: 3px solid blue;
+}
+#algum-titulo{
+    border-bottom: 4px solid green;
+}
+
