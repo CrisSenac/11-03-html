@@ -12,10 +12,18 @@ body{
     padding-bottom: 500px;
 
 }
-/* classes */
+/* 08 classes */
 .paragraph{
     background-color:black;
     color: aqua;
     padding: 5px;
+}
+
+#exclusive-title{
+    background-color: purple;
+    color: beige;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
 }
 
