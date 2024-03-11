@@ -7,3 +7,15 @@ p{
     font-size: 80px;
 }
 
+
+body{
+    padding-bottom: 500px;
+
+}
+/* classes */
+.paragraph{
+    background-color:black;
+    color: aqua;
+    padding: 5px;
+}
+
